@@ -1,6 +1,6 @@
 body {
     background-color:#500000;
-    color: #fffbfb;
+    color: #EEE1C6;
     text-align: center;
   }
   
@@ -32,11 +32,7 @@ body {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-<<<<<<< HEAD
     background-color: #8b7bea;
-=======
-    background-color: #efecec;
->>>>>>> fad734b0a5b33de2d0ff1b2a8399e5baf2710e03
   }
 
   /* Change the active page to a different color */
@@ -46,6 +42,10 @@ body {
     color: #fffbfb;
 =======
     background-color: #500000;
+<<<<<<< HEAD
+    color: #EEE1C6;
+=======
     color: #ffffff;
 >>>>>>> fad734b0a5b33de2d0ff1b2a8399e5baf2710e03
+>>>>>>> 1374d7b740d195ddd48cda2a4b214f988175d5be
   }
