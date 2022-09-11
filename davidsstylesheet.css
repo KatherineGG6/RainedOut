@@ -1,6 +1,6 @@
 body {
-    background-color: #3c2f2f;
-    color: #DFCCAF;
+    background-color: #ADD8E6;
+    color: #000000;
     text-align: center;
   }
   
@@ -24,7 +24,7 @@ body {
   
   li a {
     display:inline;
-    color: #DFCCAF;
+    color: #000000;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -37,6 +37,6 @@ body {
 
   /* Change the active page to a different color */
   .active {
-    background-color: #BE9B7B;
-    color: #3c2f2f;
+    background-color: #ADD8E6;
+    color: #000000;
   }
