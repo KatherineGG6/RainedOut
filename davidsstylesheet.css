@@ -1,5 +1,5 @@
 body {
-    background-color: #500a2f;
+    background-color:#500000;
     color: #fffbfb;
     text-align: center;
   }
@@ -24,7 +24,7 @@ body {
   
   li a {
     display:inline;
-    color: #000000;
+    color: #f8f6f6;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -32,11 +32,20 @@ body {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
+<<<<<<< HEAD
     background-color: #8b7bea;
+=======
+    background-color: #efecec;
+>>>>>>> fad734b0a5b33de2d0ff1b2a8399e5baf2710e03
   }
 
   /* Change the active page to a different color */
   .active {
+<<<<<<< HEAD
     background-color: #500a2f;
     color: #fffbfb;
+=======
+    background-color: #500000;
+    color: #ffffff;
+>>>>>>> fad734b0a5b33de2d0ff1b2a8399e5baf2710e03
   }
