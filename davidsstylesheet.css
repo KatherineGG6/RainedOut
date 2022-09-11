@@ -24,7 +24,7 @@ body {
   
   li a {
     display:inline;
-    color: #9f6e6e;
+    color: #f8f6f6;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -32,7 +32,7 @@ body {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: #b97d7b;
+    background-color: #efecec;
   }
 
   /* Change the active page to a different color */
