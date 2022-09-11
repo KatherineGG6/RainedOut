@@ -1,5 +1,5 @@
 body {
-    background-color: #500a2f;
+    background-color:#500000;
     color: #fffbfb;
     text-align: center;
   }
@@ -24,7 +24,7 @@ body {
   
   li a {
     display:inline;
-    color: #000000;
+    color: #9f6e6e;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -32,11 +32,11 @@ body {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: #854442;
+    background-color: #b97d7b;
   }
 
   /* Change the active page to a different color */
   .active {
-    background-color: #500a2f;
+    background-color: #500000;
     color: #ffffff;
   }
