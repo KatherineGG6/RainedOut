@@ -1,6 +1,6 @@
 body {
-    background-color: #ADD8E6;
-    color: #000000;
+    background-color: #500a2f;
+    color: #fffbfb;
     text-align: center;
   }
   
@@ -37,6 +37,6 @@ body {
 
   /* Change the active page to a different color */
   .active {
-    background-color: #074d65;
-    color: #000000;
+    background-color: #500a2f;
+    color: #fffbfb;
   }
