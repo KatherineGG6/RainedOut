@@ -33,13 +33,11 @@ body {
   /* Change the link color to #111 (black) on hover */
   li a:hover {
     background-color: #EEE1C6;
+    color:#500000;
   }
 
   /* Change the active page to a different color */
   .active {
-    background-color: #500a2f;
-    color: #fffbfb;
-
-    background-color: #500000;
-    color: #EEE1C6;
+    background-color: #EEE1C6;
+    color:#500000;
   }
