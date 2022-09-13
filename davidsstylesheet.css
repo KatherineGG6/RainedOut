@@ -33,19 +33,25 @@ body {
   /* Change the link color to #111 (black) on hover */
   li a:hover {
     background-color: #EEE1C6;
+    color:#500000;
   }
 
   /* Change the active page to a different color */
   .active {
-<<<<<<< HEAD
-    background-color: #500a2f;
-    color: #fffbfb;
-=======
-    background-color: #500000;
-<<<<<<< HEAD
-    color: #EEE1C6;
-=======
-    color: #ffffff;
->>>>>>> fad734b0a5b33de2d0ff1b2a8399e5baf2710e03
->>>>>>> 1374d7b740d195ddd48cda2a4b214f988175d5be
+    background-color: #EEE1C6;
+    color:#500000;
+  }
+
+  td {
+    text-align: center;
+    padding:2%;
+  }
+
+  table {
+    background-color: #EEE1C6;
+    color:#500000;
+    padding: 2%;
+    width:90%;
+    border-radius:15px;
+    margin:auto;
   }
