@@ -33,13 +33,32 @@ body {
   /* Change the link color to #111 (black) on hover */
   li a:hover {
     background-color: #EEE1C6;
+    color:#500000;
   }
 
   /* Change the active page to a different color */
   .active {
-    background-color: #500a2f;
-    color: #fffbfb;
+    background-color: #EEE1C6;
+    color:#500000;
+  }
 
-    background-color: #500000;
-    color: #EEE1C6;
+  td {
+    text-align: center;
+    padding:2%;
+  }
+
+  table {
+    background-color: #EEE1C6;
+    color:#500000;
+    padding: 2%;
+    width:90%;
+    border-radius:15px;
+    margin:auto;
+  }
+
+ .lilly{
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
   }
